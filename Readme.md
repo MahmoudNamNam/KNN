@@ -53,7 +53,8 @@ In summary, KNN is a versatile algorithm suitable for various types of data, but
 
 ---
 ## Computing accuracy
-![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/98c14b4e-7680-411e-a270-9e5954cc1d73)
+![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/2ed8875e-bfbc-4f60-aa4d-6e8ae15a7ff1)
+
 ![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/e04662b4-9755-4a72-a468-da7cbce38231)
 ![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/8997aedf-f58a-4237-b2d2-fed458f817f9)
 
@@ -62,4 +63,5 @@ In summary, KNN is a versatile algorithm suitable for various types of data, but
 - Larger k = less complex model = can cause underfitting
 - Smaller k = more complex model = can lead to overfitting
 
-![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/188d0311-4900-45a9-b15f-02efc1534a2b)
+![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/70d5dde3-29ec-4186-8e68-86e879ad1eba)
+
