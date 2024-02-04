@@ -50,3 +50,16 @@ In summary, KNN is a versatile algorithm suitable for various types of data, but
 ## Confusion Matrix , F1 Score Evaluation and accuracy
 
 ![alt text](image-2.png)
+
+---
+## Computing accuracy
+![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/98c14b4e-7680-411e-a270-9e5954cc1d73)
+![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/e04662b4-9755-4a72-a468-da7cbce38231)
+![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/8997aedf-f58a-4237-b2d2-fed458f817f9)
+
+---
+## Model complexity
+- Larger k = less complex model = can cause underfitting
+- Smaller k = more complex model = can lead to overfitting
+
+![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/188d0311-4900-45a9-b15f-02efc1534a2b)
