@@ -64,5 +64,4 @@ In summary, KNN is a versatile algorithm suitable for various types of data, but
 - Larger k = less complex model = can cause underfitting
 - Smaller k = more complex model = can lead to overfitting
 
-![image](https://github.com/MahmoudNamNam/KNN/assets/148398760/70d5dde3-29ec-4186-8e68-86e879ad1eba)
 
